@@ -1,3 +1,3 @@
 # TLE Manoeuvre Simulation
 
-Code to create simulated TLE data with inserted manoeuvres.
+Code to create simulated Two Line Element (TLE) data with inserted manoeuvres.
